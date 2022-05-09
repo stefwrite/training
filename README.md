@@ -18,9 +18,9 @@ After completing this training, you should be able to...
 
 * Modular: it covers only a few learning objectives at a time (typically 1-3).
 
-* Applies [instructional design best practices](https://blog.commlabindia.com/elearning-design/instructional-design-best-practices-guide) and [Adult Learning Theory (andragogy)](https://en.wikipedia.org/wiki/Andragogy).
+* Appling [instructional design best practices](https://blog.commlabindia.com/elearning-design/instructional-design-best-practices-guide) and [Adult Learning Theory (andragogy)](https://en.wikipedia.org/wiki/Andragogy).
 
-* Refers to **separate** documentation resources for ongoing reference.
+* Refering to **separate** documentation resources for ongoing reference. (Training should be a one-time experience, *NOT* the ongoing reference doc.)
 
 ## How we build training
 
